@@ -1,0 +1,1 @@
+### Can be tweaked in the data.json file to change the college, department, semester and exam_date. Try to work out the values yourself it will be found in the charusat result website. you will need to Inspect the page in the network tab and get the POST request headers to get the specific information. goodluck :p
